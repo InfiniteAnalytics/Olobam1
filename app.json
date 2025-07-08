@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fashionandfabrics",
-    "slug": "fashionandfabrics",
+    "name": "olobam1",
+    "slug": "olobam1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -18,7 +18,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.fashionandfabrics.app"
+      "bundleIdentifier": "com.olobam1.app"
     },
     "android": {
       "adaptiveIcon": {
@@ -50,14 +50,14 @@
         "origin": false
       },
       "eas": {
-        "projectId": "0d6adfe7-141d-4f28-840c-794f0f7a1d8f"
+        "projectId": ""
       }
     },
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/0d6adfe7-141d-4f28-840c-794f0f7a1d8f"
+      "url": ""
     }
   }
 }
