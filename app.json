@@ -48,9 +48,10 @@
     "extra": {
       "router": {
         "origin": false
-      },
+      }
+    },
     "runtimeVersion": {
       "policy": "appVersion"
-    },
+    }
   }
 }
