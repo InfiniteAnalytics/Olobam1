@@ -49,15 +49,8 @@
       "router": {
         "origin": false
       },
-      "eas": {
-        "projectId": ""
-      }
-    },
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "updates": {
-      "url": ""
-    }
   }
 }
